@@ -3,3 +3,6 @@
 **/yarn.lock
 **/.env
 dist/
+**/dist/
+pakcage-lock.json
+yarn.lock
