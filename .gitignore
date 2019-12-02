@@ -1,0 +1,5 @@
+**/node_modules/
+**/pakcage-lock.json
+**/yarn.lock
+**/.env
+
